@@ -24,4 +24,15 @@ credentials - kwalifikacje
 POkazywanie danych na stronie html - z javy
 xmln - name space w html,
 xmlns:th="http://www.thymeleaf.org">
-https://www.thymeleaf.org/
+https://www.thymeleaf.org/  - biblioteka
+
+
+
+redirect - powoduje ze przegladarka nie pyta o ponowne wyslanie post,prz odswiezeniu
+
+
+
+
+
+
+Spring - min. integruje bilioteki
