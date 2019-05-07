@@ -1,0 +1,27 @@
+Autentykacja
+- rozpoznaje kto jest kim
+-np, przez haslo, rozpoznanie odcisku palca
+- ouauf
+-poswiadczenie ze ktos jest kim
+- np, jak ktos jest autoktykowany to moze zrobic wszystko
+
+
+Autoryzacja
+- zgoda czy ktos moze cos zrobic
+- nadawanie uprawnien
+
+
+Atak csrf, wylaczenie http na web stornie
+https://pl.wikipedia.org/wiki/Cross-site_request_forgery
+https://sekurak.pl/czym-jest-podatnosc-csrf-cross-site-request-forgery/
+
+credentials - kwalifikacje
+
+- dla security poiwnny byc osobne testy integracyjne
+
+
+
+POkazywanie danych na stronie html - z javy
+xmln - name space w html,
+xmlns:th="http://www.thymeleaf.org">
+https://www.thymeleaf.org/
